@@ -1,0 +1,66 @@
+Step 1 :- create a folder name "MainAssignment"
+
+step 2 :- write "cmd" in the folder
+
+Step 3:- Initialize a Git repository
+code :- git init
+
+Step 4:- Create a remote repository name "MainAssignment" going to github
+
+Step 5:- Add the remote repository URL
+code :- git remote add origin (Git Repo Link)
+
+Step 6 :- Create "file1.py" in the folder "MainAssignment" and write something in the file
+
+Step 7:- Stage the files for commit
+code :- git add file1.py
+
+Step 8 :- Commit the changes
+code :- git commit -m "file1"
+
+Step 9: Push your changes to the remote repository
+code :- git push -u origin master
+
+Step 10 :- Create "file2.py" in the folder "MainAssignment" and write something in the file
+
+Step 11:- Stage the files for commit
+code :- git add file2.py
+
+Step 12 :- Commit the changes
+code :- git commit -m "file2"
+
+Step 13: Push your changes to the remote repository
+code :- git push -u origin master
+
+Step 14 :- Create "file3.py" in the folder "MainAssignment" and write something in the file
+
+Step 15:- Stage the files for commit
+code :- git add file3.py
+
+Step 16 :- Commit the changes
+code :- git commit -m "file3"
+
+Step 17: Push your changes to the remote repository
+code :- git push -u origin master
+
+Step 18 :- Create "file4.py" in the folder "MainAssignment" and write something in the file
+
+Step 19:- Stage the files for commit
+code :- git add file4.py
+
+Step 20 :- Commit the changes
+code :- git commit -m "file4"
+
+Step 21: Push your changes to the remote repository
+code :- git push -u origin master
+
+Step 22 :- Create "file5.py" in the folder "MainAssignment" and write something in the file
+
+Step 23:- Stage the files for commit
+code :- git add file5.py
+
+Step 24 :- Commit the changes
+code :- git commit -m "file5"
+
+Step 25: Push your changes to the remote repository
+code :- git push -u origin master
